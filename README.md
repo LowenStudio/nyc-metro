@@ -32,8 +32,6 @@ Space or Enter submits a completed name. **UPPERCASE** enables case-sensitive ty
 src/         Application, components, route data and game logic
 tests/       Routing, animation, station markers and gameplay tests
 screenshots/ Verified UI screenshots
-design/      Visual boards and design references
-research/    Benchmark notes
 docs/        Earlier project notes and history
 ```
 
