@@ -31,11 +31,9 @@ Space or Enter submits a completed name. **UPPERCASE** enables case-sensitive ty
 ```text
 src/         Application, components, route data and game logic
 tests/       Routing, animation, station markers and gameplay tests
-screenshots/ Verified UI screenshots
-docs/        Earlier project notes and history
 ```
 
-See [custom journeys](CUSTOM-JOURNEYS.md), [service catalogue](SERVICE-CATALOGUE.md), and [data sources](src/data/SOURCES.md).
+See [data sources and attribution](src/data/SOURCES.md).
 
 Routes use representative MTA regular-service patterns and published station complexes. Some branches and time-dependent patterns are outside the prototype. There is no live disruption or travel-time information. Map tiles require internet access; a schematic fallback is available when WebGL is unavailable. Personal scores and preferences are stored in the browser.
 
